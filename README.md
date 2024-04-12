@@ -1,12 +1,12 @@
 # medication-schedule-app
 
-# stack
+## stack
 
 - python
 - django
 - postgresql
 
-# colaborators
+## colaborators
 
 - Samuel Soares
 - Jonatas Ribeiro
