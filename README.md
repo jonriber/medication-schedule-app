@@ -23,7 +23,7 @@ W1:
 - [x] INSTALL DJANGO
 - [x] INSTALL DOCKER FOR DESKTOP
 - [x] READ ABOUT DOCKER
-- READ ABOUT POSTGRESQL
+- [x] READ ABOUT POSTGRESQL
 - CONFIGURE POSTGRESQL WITH DOCKER
 
 USEFUL RESOURCE LINK: <https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial>
